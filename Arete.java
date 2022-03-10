@@ -1,4 +1,4 @@
-
+fnasokdnsaodnsadoisandoiasnfaoifnsaofinfoinfoasnfoiasnfan
 public class Arete implements Comparable<Arete>{
 
     // Une arete relie deux sommets, elle n'a pas de sens privilegie.
