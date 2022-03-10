@@ -67,4 +67,4 @@ public class Arete implements Comparable<Arete>{
     // https://docs.oracle.com/javase/7/docs/api/java/lang/Object.html#equals(java.lang.Object)
     // https://docs.oracle.com/javase/7/docs/api/java/lang/Object.html#hashCode()
 }
-
+vhhhhh
